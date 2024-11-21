@@ -1,4 +1,3 @@
-# Speechify Core Experience Functional Test (Java)
 
 ## Project Overview
 
